@@ -14,3 +14,9 @@
 .naranja{
 	background-color: darkorange;
 }
+.derecha{
+	transform: translateX(700px);
+}
+.blanco{
+	height: 300px;
+}
